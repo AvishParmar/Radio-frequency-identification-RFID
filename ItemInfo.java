@@ -1,11 +1,7 @@
-package Homework2;
+
 /**
  * ItemInfo class that contains product information
  * @author Avish Parmar
- * SBUID: 112647892
- * Email: avish.parmar@stonybrook.edu
- * Course: CSE214
- * Recitation: Section 01
  */
 public class ItemInfo {
 	private final static int rfidLength = 9;
