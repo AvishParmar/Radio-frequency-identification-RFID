@@ -1,11 +1,6 @@
-package Homework2;
 /**
  * InvalidRFIDException class that is invoked when an InvalidRFIDException is thrown.
  * @author Avish Parmar
- * SBUID: 112647892
- * Email: avish.parmar@stonybrook.edu
- * Course: CSE214
- * Recitation: Section 01
  */
 public class InvalidRFIDException extends Exception {
 	/**
