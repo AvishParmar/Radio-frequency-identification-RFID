@@ -1,11 +1,7 @@
-package Homework2;
+
 /**
  * ItemInfoNode class that links and stores item information.
  * @author Avish Parmar
- * SBUID: 112647892
- * Email: avish.parmar@stonybrook.edu
- * Course: CSE214
- * Recitation: Section 01
  */
 public class ItemInfoNode {
 	
